@@ -2,10 +2,10 @@
 
 
 ### 프로젝트 참여범위 
-크롤링 하는방법은 각Element 를 컨트롤 하여  각보험사 결과에 대한 스크립트를 분석후
-selenium 형식에맞게 소스를 만들고 돌리는형식입니다
-제가맡은 보험사는
-KDB 삼성생명 신한은행 입니다
+크롤링 하는방법은 각Element 를 컨트롤 하여  각보험사 결과에 대한 스크립트를 분석후<br>
+selenium 형식에맞게 소스를 만들고 돌리는형식입니다<br>
+제가맡은 보험사는<br>
+KDB 삼성생명 신한은행 입니다<br>
 [크롤링 샘플소스 (바로가기)](https://github.com/sms8884/SeleniumWebCrawling/blob/master/finder.crawler.life.samsung/src/test/java/crawler/life/KDB/KDB_insurance_Test.java)
 
 
